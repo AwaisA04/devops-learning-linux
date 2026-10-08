@@ -2,7 +2,6 @@
 
 arithmetic_calculator() {
 
-
 read -p "Enter first number: " first_number
 read -p "Enter second number: " second_number
 
